@@ -3158,16 +3158,17 @@ renderAuditReport(moves) {
   },
 };
 
-  <script>
+document.addEventListener("DOMContentLoaded", () => app.init());
+  </script>
+
+<script>
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register("./sw.js");
 }
 </script>
-
-document.addEventListener("DOMContentLoaded", () => app.init());
-  </script>
 </body>
 
 </html>
+
 
 
