@@ -1,8 +1,8 @@
 {
   "name": "Cares Inventory",
   "short_name": "Cares Inventory",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/inventorycares/",
+  "scope": "/inventorycares/",
   "display": "fullscreen",
   "background_color": "#0f172a",
   "theme_color": "#0b5d1e",
